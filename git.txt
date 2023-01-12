@@ -17,10 +17,25 @@ git clone url
 
 como subir cambios al repositorio?
 
-1 verificar cambios en archivos
+1: verificar cambios en archivos
 git status
 
 2: agrgar esoso archivos al stage
 git add .
+
+3: necesitamos agregar un comentario pequeño sobre los cambios que estamos haciendo
+git commit -m "comandos git"
+
+4: subir los cambios
+git push
+agregar la cuenta en el git local y autorizar
+
+
+
+
+
+
+
+
 
 

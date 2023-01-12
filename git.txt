@@ -30,6 +30,14 @@ git commit -m "comandos git"
 git push
 agregar la cuenta en el git local y autorizar
 
+como descargar cambios del repositorio?
+1: verificar que no tengamos nada para agregar en status
+git status
+
+2: para descargar los cambios lo hacemos con el sigiente comando
+git pull
+
+
 
 
 

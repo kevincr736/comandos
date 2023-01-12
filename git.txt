@@ -1,0 +1,26 @@
+1: repositorio
+https://github.com/
+
+2: descargar git
+https://git-scm.com/download/win
+
+como clonar un repositorio?
+
+1: en github ir al respositorio y seleccionar en el boton code
+copiar el url del repositorio
+https://github.com/kevincr736/comandos.git
+
+2: abrir una terminal en directorio especifico y oprimir clik derecho y seleccionar la opcion gitbash here
+
+3: clonar el repositorio con el siguiente comando 
+git clone url
+
+como subir cambios al repositorio?
+
+1 verificar cambios en archivos
+git status
+
+2: agrgar esoso archivos al stage
+git add .
+
+
